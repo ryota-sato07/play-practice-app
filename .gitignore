@@ -1,0 +1,16 @@
+logs
+target
+backup
+metals.sbt
+
+/.DS_Store
+/.bloop
+/.bsp
+/.sbtserver
+/.idea
+/.idea_modules
+/.classpath
+/.metals
+/.project
+/.settings
+/RUNNING_PID
