@@ -3,12 +3,7 @@
 ## Environment
 
 - Playframework
-- Angular
-- MySQL
-- Slick
-- Dcoker
-- AWS
-- Auth0
+
 
 ## Note
 
